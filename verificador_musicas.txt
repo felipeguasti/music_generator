@@ -1,0 +1,40 @@
+INSTRUÇÕES PARA VERIFICAÇÃO DE MÚSICAS
+
+Por favor, verifique automaticamente as músicas presentes na pasta 'downloads' e/ou no arquivo 'musicas.csv' e me diga quais são inadequadas para adolescentes de 14 a 18 anos, explicando o porquê.
+
+Critérios de análise:
+1. Linguagem explícita
+2. Conteúdo sexual explícito
+3. Referências a drogas
+4. Violência explícita
+5. Mensagens prejudiciais
+
+Para cada música, analise:
+- Gênero musical
+- Conteúdo da letra
+- Mensagem principal
+- Elementos inadequados
+- Recomendação de faixa etária
+
+Formato da resposta desejada:
+1. Nome da música - Artista
+   - Gênero:
+   - Análise:
+   - Adequação: (✅ Adequada ou ❌ Não adequada)
+   - Motivo:
+   - Trechos problemáticos (se houver):
+
+No final, forneça um resumo com:
+- Total de músicas adequadas
+- Total de músicas não adequadas
+- Recomendações gerais
+- Lista de músicas que devem ser removidas (se houver)
+
+Instruções para execução:
+1. Verificar arquivo musicas.csv para lista de músicas
+2. Verificar pasta downloads para músicas já baixadas
+3. Fazer análise completa de todas as músicas encontradas
+4. Fornecer relatório detalhado
+
+Músicas para análise:
+[INSIRA AQUI A LISTA DE MÚSICAS] 
